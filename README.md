@@ -2,10 +2,6 @@
 
 ## Updated Flame (Malware) Aka sKyWIper.
 
----------------
-        Major message to everyone:
-         Got the Book, posting flame's modules reversed very soon.
-
 
 ##### I will soon upload POC (Proof Of Concept) of Flame modules, and as well as some re-creations of it
 As with fanny.bmp - I will continue on it, but as I like to move around between projects, I'll spend some time on this one too.
