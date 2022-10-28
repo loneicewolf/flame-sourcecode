@@ -1,5 +1,3 @@
-
-
 ## Updated Flame (Malware) Aka sKyWIper.
 
 ### related:
